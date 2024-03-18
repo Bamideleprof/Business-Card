@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-style: verdana;
+    color: blue;
+}
+
+.job {
+    color: blue;
+}
+
+.avatar {
+    margin: 20px;
+    width: 150px;
+}
+
+.Id-card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:  #2b2839;
+    background: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+    
+}
